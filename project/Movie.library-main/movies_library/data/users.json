@@ -1,0 +1,109 @@
+[
+  {
+    "id": "u1",
+    "name": "Sara",
+    "username": "sara",
+    "password": "Sara123!",
+    "preferences": [
+      "sci-fi",
+      "space",
+      "science"
+    ]
+  },
+  {
+    "id": "u2",
+    "name": "Ali",
+    "username": "ali",
+    "password": "Ali123!",
+    "preferences": [
+      "animation",
+      "music",
+      "family"
+    ]
+  },
+  {
+    "id": "u3",
+    "name": "Mona",
+    "username": "mona",
+    "password": "Mona123!",
+    "preferences": [
+      "romance",
+      "drama",
+      "music"
+    ]
+  },
+  {
+    "id": "u4",
+    "name": "Omar",
+    "username": "omar",
+    "password": "Omar123!",
+    "preferences": [
+      "action",
+      "crime",
+      "hero"
+    ]
+  },
+  {
+    "id": "u7",
+    "name": "foziah",
+    "username": "foziah",
+    "password": "Foziah123!",
+    "preferences": [
+      "comedy"
+    ]
+  },
+  {
+    "id": "u6",
+    "name": "aseel",
+    "username": "aseel1022",
+    "password": "123Aseel",
+    "preferences": [
+      "romance"
+    ]
+  },
+  {
+    "id": "u77",
+    "name": "leen",
+    "username": "leenm",
+    "password": "12356",
+    "preferences": [
+      "comedy"
+    ]
+  },
+  {
+    "id": "u100",
+    "name": "reem",
+    "username": "reem.01",
+    "preferences": [
+      "comedy"
+    ],
+    "password": "1313"
+  },
+  {
+    "id": "manager",
+    "name": "Aseel",
+    "username": "ImAseel",
+    "password": "12345",
+    "preferences": [
+      "comedy"
+    ]
+  },
+  {
+    "id": "u234",
+    "name": "t",
+    "username": "tt",
+    "password": "1423",
+    "preferences": [
+      "comedy"
+    ]
+  },
+  {
+    "id": "q",
+    "name": "q",
+    "username": "q",
+    "password": "q",
+    "preferences": [
+      "q"
+    ]
+  }
+]

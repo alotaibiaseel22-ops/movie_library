@@ -1,0 +1,44 @@
+[
+  {
+    "id": "m1",
+    "title": "Inception",
+    "genre": "sci-fi",
+    "tags": ["dream", "heist", "mind"]
+  },
+  {
+    "id": "m2",
+    "title": "Interstellar",
+    "genre": "sci-fi",
+    "tags": ["space", "science", "drama"]
+  },
+  {
+    "id": "m3",
+    "title": "Coco",
+    "genre": "animation",
+    "tags": ["music", "family", "love"]
+  },
+  {
+    "id": "m4",
+    "title": "The Dark Knight",
+    "genre": "action",
+    "tags": ["hero", "crime", "joker"]
+  },
+  {
+    "id": "m5",
+    "title": "La La Land",
+    "genre": "romance",
+    "tags": ["music", "love", "drama"]
+  },
+  {
+    "id": "m6",
+    "title": "Tenet",
+    "genre": "sci-fi",
+    "tags": ["time", "action", "thriller"]
+  },
+  {
+    "id": "m7",
+    "title": "Inside Out",
+    "genre": "animation",
+    "tags": ["emotions", "family", "comedy"]
+  }
+]
