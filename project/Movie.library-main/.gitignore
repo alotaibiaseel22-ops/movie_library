@@ -3,3 +3,8 @@ __pycache__/
 .venv/
 .env
 *.zip
+__pycache__/
+*.pyc
+.venv/
+.env
+*.zip
