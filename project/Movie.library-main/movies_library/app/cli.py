@@ -69,7 +69,7 @@ def ensure_logged_in(current_user: Optional[Dict[str, Any]]) -> bool:
 def recommend_cli(gw: APIGateway, current_user: Dict[str, Any]):
     print("\nAI-Powered Recommendations:")
     try:
-        k_txt = input("How many movie recommendations do you want? (default 5): ").strip() or "5"
+        k_txt = input("How many movie recommendations do you want? ").strip() or "5"
         k = int(k_txt)
     except ValueError:
         k = 5

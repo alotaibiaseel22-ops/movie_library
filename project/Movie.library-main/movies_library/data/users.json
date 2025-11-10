@@ -71,39 +71,12 @@
     ]
   },
   {
-    "id": "u100",
-    "name": "reem",
-    "username": "reem.01",
-    "preferences": [
-      "comedy"
-    ],
-    "password": "1313"
-  },
-  {
     "id": "manager",
-    "name": "Aseel",
-    "username": "ImAseel",
-    "password": "12345",
+    "name": "aseel",
+    "username": "aseel",
+    "password": "123",
     "preferences": [
       "comedy"
-    ]
-  },
-  {
-    "id": "u234",
-    "name": "t",
-    "username": "tt",
-    "password": "1423",
-    "preferences": [
-      "comedy"
-    ]
-  },
-  {
-    "id": "q",
-    "name": "q",
-    "username": "q",
-    "password": "q",
-    "preferences": [
-      "q"
     ]
   }
 ]
